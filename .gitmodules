@@ -1,0 +1,3 @@
+[submodule "fp_artifacts"]
+	path = fp_artifacts
+	url = https://github.com/gregdurrett/fp-dataset-artifacts.git
